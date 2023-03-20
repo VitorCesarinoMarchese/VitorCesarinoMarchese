@@ -4,7 +4,7 @@
 <a href="https://instagram.com/vcesarino" target="_blank"><img src="https://img.shields.io/badge/-Instagram-df6d74?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://discord.com/channels/@tept" target="_blank"><img src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 <ul>
-  <li>Estudando Vue e React</li>
+  <li>Estudando React</li>
   <li>Learning english</li>
 </ul>
 
