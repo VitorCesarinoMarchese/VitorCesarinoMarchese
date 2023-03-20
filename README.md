@@ -5,7 +5,7 @@
 <a href="https://discord.com/channels/@tept" target="_blank"><img src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 <ul>
   <li>Estudando React</li>
-  <li>Learning english</li>
+  <li>Learning English</li>
 </ul>
 
 
