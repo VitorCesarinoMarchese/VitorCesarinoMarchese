@@ -1,7 +1,6 @@
 # Oi, eu sou o Vitor
 
 <a href="https://www.linkedin.com/in/vitor-cesarino-230473249/" target="_blank"><img src="https://img.shields.io/badge/-Linkedln-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/vcesarino" target="_blank"><img src="https://img.shields.io/badge/-Instagram-df6d74?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <ul>
   <li>Estudando React e GO</li>
   <li>Learning English</li>
