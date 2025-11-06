@@ -10,7 +10,7 @@
 ![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorCesarinoMarchese&show_icons=true&theme=gruvbox)
 
 ## Rice
-<img width="1921" height="1081" alt="image" src="https://github.com/user-attachments/assets/6e0d4680-ec10-4781-80f1-20fb1ad10570" />
-<img width="1921" height="1081" alt="image" src="https://github.com/user-attachments/assets/e0661a06-866e-4b4c-a64e-81f40b833e11" />
+<img width="1921" height="1081" alt="image" src="https://github.com/user-attachments/assets/d9c7d82f-7e3a-4022-bd5a-c7eae986c585" />
+<img width="1921" height="1081" alt="image" src="https://github.com/user-attachments/assets/c2bbd2f6-3103-470d-ad0a-a28d0c7fe066" />
 
 
