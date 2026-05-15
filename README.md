@@ -7,8 +7,6 @@
 - 🗣️ English Speaker
 - 🍚 Rice enjoyer
 
-![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorCesarinoMarchese&show_icons=true&theme=gruvbox)
-
 ## Rice
 <img width="1921" height="1081" alt="image" src="https://github.com/user-attachments/assets/d9c7d82f-7e3a-4022-bd5a-c7eae986c585" />
 <img width="1921" height="1081" alt="image" src="https://github.com/user-attachments/assets/c2bbd2f6-3103-470d-ad0a-a28d0c7fe066" />
