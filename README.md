@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white "LinkedIn")](https://www.linkedin.com/in/vitor-cesarino/ "Visite meu LinkedIn")
 
-- 👨‍💻 Desenvolvedor Typescript
+- 👨‍💻 Desenvolvedor
 - 📚 Estudante de Engenharia de Software
 - 🗣️ English Speaker
 - 🍚 Rice enjoyer
